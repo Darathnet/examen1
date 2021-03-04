@@ -1,1 +1,3 @@
 Nuevo archivo rama 1
+1 Línea nueva en rama1
+2 Línea nueva en rama1
